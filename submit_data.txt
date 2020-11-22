@@ -1,0 +1,7 @@
+mingap
+ads20-da1-09
+zaHaeHae7x
+
+This file contains the Task ID, username and password
+last used when submitting a solution.
+This file is used when you call Submit.submit() with no arguments.
